@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "from": 0,
+        "to": 0,
+        "states": [
+            {
+                "name": "maharashtra",
+                "registeredUsers": 80119804
+            },
+            {
+                "name": "uttar pradesh",
+                "registeredUsers": 60769158
+            },
+            {
+                "name": "karnataka",
+                "registeredUsers": 51254752
+            },
+            {
+                "name": "andhra pradesh",
+                "registeredUsers": 39888598
+            },
+            {
+                "name": "telangana",
+                "registeredUsers": 38320680
+            }
+            
+        ]
+    },
+    "responseTimestamp": 0
+}

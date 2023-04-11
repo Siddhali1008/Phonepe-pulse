@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+        "states": [
+            {
+                "name": "maharashtra",
+                "registeredUsers": 612264427
+            },
+            {
+                "name": "uttar pradesh",
+                "registeredUsers": 486403492
+            },
+            {
+                "name": "karnataka",
+                "registeredUsers": 394779919
+            },
+            {
+                "name": "andhra pradesh",
+                "registeredUsers": 304846445
+            },
+            {
+                "name": "telangana",
+                "registeredUsers": 285384608
+            },
+            {
+                "name": "rajasthan",
+                "registeredUsers": 293660644
+            },
+            {
+                "name": "gujarat",
+                "registeredUsers": 244859978
+            },
+            {
+                "name": "west bengal",
+                "registeredUsers": 279162592
+            },
+            {
+                "name": "madhya pradesh",
+                "registeredUsers": 246227007
+            },
+            {
+                "name": "bihar",
+                "registeredUsers": 5139676
+            },
+            {
+                "name": "tamil nadu",
+                "registeredUsers": 260550034
+            }
+        ],
+        "districts": []
+    }
+}

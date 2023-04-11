@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "from": 0,
+    "to": 0,
+    "states": [
+      { "name": "maharashtra", "count": 16387034 },
+      { "name": "uttar pradesh", "count": 12537805},
+      { "name": "karnataka", "count": 12016899 },
+      { "name": "west bengal", "count":11710225 },
+      { "name": "andhra pradesh", "count":9039585 },
+      { "name": "telangana", "count":8522766 },
+      { "name": "madhya pradesh", "count":8025395},
+      { "name": "rajasthan", "count": 7591690},
+      { "name": "delhi", "count": 7122754},
+      { "name": "tamil nadu", "count":6726622 }
+
+    ]
+  },
+  "responseTimestamp": 0
+}

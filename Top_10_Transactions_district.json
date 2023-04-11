@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "from": 0,
+    "to": 0,
+    "districts": [
+      { "name": "bengaluru urban", "count":8306513 },
+      { "name": "pune", "count":3842929},
+      { "name": "central delhi", "count":2997714},
+      { "name": "mumbai", "count":2671029},
+      { "name": "chennai", "count":2656230},
+      { "name": "hyderabad", "count":2545507},
+      { "name": "jaipur", "count":2417174},
+      { "name": "birbhum", "count":2125816},
+      { "name": "kolkata", "count":2043129},
+      { "name": "bhopal", "count":1704495 }
+
+    ]
+  },
+  "responseTimestamp": 0
+}

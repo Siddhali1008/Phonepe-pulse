@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "from": 0,
+    "to": 0,
+    "pincodes": [
+      { "name": "560001", "count":2917356 },
+      { "name": "110006", "count":2636324},
+      { "name": "400008", "count":2227885},
+      { "name": "600003", "count":2010196},
+      { "name": "731101", "count":1764956},
+      { "name": "700009", "count":1390629},
+      { "name": "411001", "count":1055656},
+      { "name": "500012", "count":933013},
+      { "name": "462001", "count":832846},
+      { "name": "201301", "count":690196 }
+
+    ]
+  },
+  "responseTimestamp": 0
+}

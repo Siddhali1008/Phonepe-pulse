@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "code": "SUCCESS",
+    "data": {
+      "from": 1514745000000,
+      "to": 1522175400000,
+      "transactionData": [
+        {
+          "name": "Recharge & bill payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 72550406,
+              "amount": 14472713558.652578
+            }
+          ]
+        },
+        {
+          "name": "Peer-to-peer payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 46982705,
+              "amount": 147245883542.77402
+            }
+          ]
+        },
+        {
+          "name": "Merchant payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 5368669,
+              "amount": 4656678915.140091
+            }
+          ]
+        },
+        {
+          "name": "Financial Services",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 3762820,
+              "amount": 815853105.1000277
+            }
+          ]
+        },
+        {
+          "name": "Others",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 5761576,
+              "amount": 4643217301.269438
+            }
+          ]
+        },
+        {
+          "name": "Recharge & bill payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 991049281,
+              "amount": 649776847580.25
+            }
+          ]
+        },
+        {
+          "name": "Peer-to-peer payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 4459859921,
+              "amount": 14578874324207.227
+            }
+          ]
+        },
+        {
+          "name": "Merchant payments",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 6565690145,
+              "amount": 3673601044800.037
+            }
+          ]
+        },
+        {
+          "name": "Financial Services",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 4623387,
+              "amount": 5360528394.309982
+            }
+          ]
+        },
+        {
+          "name": "Others",
+          "paymentInstruments": [
+            {
+              "type": "TOTAL",
+              "count": 10013085,
+              "amount": 7361492606.590162
+            }
+          ]
+        }
+      ]
+    },
+    "responseTimestamp": 1674558208918
+  }
